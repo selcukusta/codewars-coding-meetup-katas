@@ -1,2 +1,3 @@
-# codewars-coding-meetup-katas
-Codewars - Coding Meetup Katas
+# Codewars - Coding Meetup Katas
+
+![My Codewarrior Profile Badge](https://www.codewars.com/users/selcukusta/badges/large)
