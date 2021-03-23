@@ -71,7 +71,6 @@ test("case #4", () => {
   ];
 
   let result = ild(arr);
-  // expect(result).toBeTruthy();
   expect(result).toBeFalsy();
 });
 
@@ -120,7 +119,6 @@ test("case #5", () => {
   ];
 
   let result = ild(arr);
-  // expect(result).toBeTruthy();
   expect(result).toBeFalsy();
 });
 
