@@ -1,7 +1,7 @@
 import { IDeveloper } from "../interfaces/IDeveloper";
 
 function countLanguages(list: IDeveloper[]): { [k: string]: string } {
-  if (!list || list.length == 0) {
+  if (!list || list.length === 0) {
     return null;
   }
 

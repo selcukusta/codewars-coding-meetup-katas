@@ -1,7 +1,7 @@
 import { IDeveloper } from "../interfaces/IDeveloper";
 
 function getFirstPython(list: IDeveloper[], lang = "Python"): string {
-  const idx = list.findIndex((x) => x.language == lang);
+  const idx = list.findIndex((x) => x.language === lang);
   if (idx === -1) {
     return `There will be no ${lang} developers`;
   }
