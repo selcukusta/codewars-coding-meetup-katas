@@ -6,4 +6,5 @@ export interface IDeveloper {
   age: number;
   language: string;
   greeting?: string;
+  username?: string;
 }
